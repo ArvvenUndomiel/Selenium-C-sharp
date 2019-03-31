@@ -21,8 +21,8 @@ namespace AutomationCourseMockingHomework
         }
 
         /*This class sends a Post Request to the API to add two books to each of the users.
-         Books are taken from the ones already populated in the database.
-         The test asserts that the books are properly added to the users's wishlists*/
+        Books are taken from the ones already populated in the database.
+        The test asserts that the books are properly added to the users's wishlists*/
 
         [Test]
         public void AddBooks_ShoouldAddBookstoUsersWishlists()
