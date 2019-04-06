@@ -1,0 +1,15 @@
+{
+  "firstName": "Frank",
+  "lastName": "Jackson",
+  "mail": "frank.jackson@abv.bg",
+  "password": "jackson53",
+  "addressFirstName": "Frank",
+  "addressLastName": "Jackson",
+  "address": "Boul.5, 136A",
+  "city": "Bakerville",
+  "state": "Arizona",
+  "zipcode": "1548956445",
+  "country": "United States",
+  "mobilePhone": "+02156884545",
+  "alias": "ArizonaTexas"
+}

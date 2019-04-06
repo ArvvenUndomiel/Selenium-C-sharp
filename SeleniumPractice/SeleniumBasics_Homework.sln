@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumBasicsTask1", "SeleniumBasicsTask1\SeleniumBasicsTask1.csproj", "{ACC71ED6-1CE1-4FDA-8300-9A803E495430}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumBasicsTask2", "SeleniumBasicsTask2\SeleniumBasicsTask2.csproj", "{C8B74209-40EF-490D-834D-9C6ABC8B495D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumBasicsTask3", "SeleniumBasicsTask3\SeleniumBasicsTask3.csproj", "{CE195112-3155-4100-9F55-F87028D3DBE2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumBasicsTask4", "SeleniumBasicsTask4\SeleniumBasicsTask4.csproj", "{F9850B6D-164F-4275-AA5E-9D99D659A4C3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DragAndDropPractice", "DragAndDropPractice\DragAndDropPractice.csproj", "{B3C92239-8FCC-4EA5-A5A5-9CEFB8475289}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HandlingAlertsPractice", "HandlingAlertsPractice\HandlingAlertsPractice.csproj", "{3929AFC3-1E2E-44BB-8B56-A5CF6849E5D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACC71ED6-1CE1-4FDA-8300-9A803E495430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC71ED6-1CE1-4FDA-8300-9A803E495430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC71ED6-1CE1-4FDA-8300-9A803E495430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC71ED6-1CE1-4FDA-8300-9A803E495430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8B74209-40EF-490D-834D-9C6ABC8B495D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8B74209-40EF-490D-834D-9C6ABC8B495D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8B74209-40EF-490D-834D-9C6ABC8B495D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8B74209-40EF-490D-834D-9C6ABC8B495D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE195112-3155-4100-9F55-F87028D3DBE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE195112-3155-4100-9F55-F87028D3DBE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE195112-3155-4100-9F55-F87028D3DBE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE195112-3155-4100-9F55-F87028D3DBE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9850B6D-164F-4275-AA5E-9D99D659A4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9850B6D-164F-4275-AA5E-9D99D659A4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9850B6D-164F-4275-AA5E-9D99D659A4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9850B6D-164F-4275-AA5E-9D99D659A4C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C92239-8FCC-4EA5-A5A5-9CEFB8475289}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C92239-8FCC-4EA5-A5A5-9CEFB8475289}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C92239-8FCC-4EA5-A5A5-9CEFB8475289}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C92239-8FCC-4EA5-A5A5-9CEFB8475289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3929AFC3-1E2E-44BB-8B56-A5CF6849E5D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3929AFC3-1E2E-44BB-8B56-A5CF6849E5D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3929AFC3-1E2E-44BB-8B56-A5CF6849E5D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3929AFC3-1E2E-44BB-8B56-A5CF6849E5D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F179149C-2528-4751-ABCE-05185193715F}
+	EndGlobalSection
+EndGlobal
